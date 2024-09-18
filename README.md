@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **1procrafter1@gmail.com**
 
-- 📄 Know about my experiences [https://example.com](https://example.com)
+- 📄 Know about my experiences [Profile](https://github.com/1ProCrafters/1ProCrafters)
 
 - ⚡ Fun fact **I have one of the best minecraft bots.**
 
