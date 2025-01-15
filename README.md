@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Minecraft Bots](https://github.com/ProCrafters-MC-Automation/ProCraftersBot)
 
-- 🌱 I’m currently learning **Higher level Math, Neural Networks, Machine Learning**
+- 🌱 I’m currently learning **Stochastic Calculus, Program Synthesis, Coq Proofing**
 
 - 👯 I’m looking to collaborate on [Mineflayer](https://github.com/PrismarineJS/mineflayer)
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly update my Github profile [https://github.com/1ProCrafters/1ProCrafters](https://github.com/1ProCrafters/1ProCrafters)
 
-- 💬 Ask me about **JS, AI, Java, Minecraft**
+- 💬 Ask me about **JS, AI, Python, Minecraft**
 
 - 📫 How to reach me **1procrafter1@gmail.com**
 
